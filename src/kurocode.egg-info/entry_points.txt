@@ -1,0 +1,2 @@
+[console_scripts]
+kurocode = kurocode.__main__:cli
